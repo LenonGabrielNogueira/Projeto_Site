@@ -40,4 +40,18 @@ main{
     border-radius: 50%;
     box-shadow: 1px 1px 3px black;
     padding: 10px;
+h1{
+    font-size: 1.5em;
+    color: blueviolet;
+}
+
+a{
+    text-decoration: nome;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: blueviolet;
 }
