@@ -25,12 +25,14 @@ main{
     width: 100px;
     height: 100px;
     padding: 10px;
+    border-radius: 50%;
     float: right;
 }
 .img_3{
     width: 100px;
     height: 100px;
     padding: 10px;
+    border-radius: 50%;
     float: right;
 }
 
