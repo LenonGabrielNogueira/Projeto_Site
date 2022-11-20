@@ -14,3 +14,30 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+
+.img_1{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+}
+
+.img_2{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    float: right;
+}
+.img_3{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    float: right;
+}
+
+.img_4{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    box-shadow: 1px 1px 3px black;
+    padding: 10px;
+}
